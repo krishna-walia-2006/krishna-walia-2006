@@ -70,9 +70,9 @@ Krishna Walia — Aspiring Software Engineer & Competitive Programmer
 
 | Project | Tech Stack | Highlights |
 | :--- | :--- | :--- |
-| ✍️ **[MegaBlog — Full-Stack Platform](https://mega-blog1.vercel.app/)** | `React.js` `Appwrite` `Redux Toolkit` `Tailwind CSS` | • Responsive content publishing platform with full CRUD functionality.<br/>• Appwrite BaaS for Auth, Database, and Cover Image storage.<br/>• Global state via Redux Toolkit & rich-text editor via TinyMCE. |
 | 🔑 **[Secure Auth Backend](https://github.com/krishna-walia-2006)** | `Node.js` `Express.js` `MongoDB` `JWT` `Bcrypt` `Nodemailer` | • Complete backend with JWT session tokens & password hashing.<br/>• Email verification via Nodemailer/Mailtrap & HTTP-only cookies.<br/>• CORS-enabled security for cross-origin requests. |
 | 🏫 **[ClubHub — Management System](https://github.com/krishna-walia-2006)** | `Java 17` `AWT/Swing` `MySQL` `JDBC` | • 3-layer architecture (`UI` → `DAO` → `Database`).<br/>• Uses `PreparedStatements` to prevent SQL injection attacks.<br/>• Automatic first-run DB setup with junction tables for many-to-many relationships. |
+| ✍️ **[MegaBlog — Full-Stack Platform](https://github.com/krishna-walia-2006)** | `React.js` `Appwrite` `Redux Toolkit` `Tailwind CSS` | • Responsive content publishing platform with full CRUD functionality.<br/>• Appwrite BaaS for Auth, Database, and Cover Image storage.<br/>• Global state via Redux Toolkit & rich-text editor via TinyMCE. |
 
 ---
 
@@ -96,10 +96,19 @@ Krishna Walia — Aspiring Software Engineer & Competitive Programmer
 
 ---
 
-<!-- ===== GITHUB STATS ===== -->
+<!-- ===== GITHUB SNAKE & STATS ===== -->
 <div align="center">
 
-### 📊 GitHub & Competitive Programming Stats
+### 🐍 Contribution Calendar & Stats
+
+<!-- Snake Animation Eating Contribution Grid -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/krishna-walia-2006/krishna-walia-2006/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/krishna-walia-2006/krishna-walia-2006/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/krishna-walia-2006/krishna-walia-2006/output/github-contribution-grid-snake-dark.svg" width="100%">
+</picture>
+
+<br/><br/>
 
 <a href="https://github.com/krishna-walia-2006">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=krishna-walia-2006&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />

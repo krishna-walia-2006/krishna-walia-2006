@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="280" viewBox="0 0 800 280">
+  <defs>
+    <filter id="shadow" x="-5%" y="-5%" width="110%" height="115%">
+      <feDropShadow dx="0" dy="4" stdDeviation="8" flood-color="#000000" flood-opacity="0.5"/>
+    </filter>
+  </defs>
+
+  <!-- Window Frame -->
+  <rect x="20" y="10" width="760" height="260" rx="12" ry="12" fill="#1e1e2e" stroke="#313244" stroke-width="1" filter="url(#shadow)"/>
+
+  <!-- Title Bar -->
+  <rect x="20" y="10" width="760" height="36" rx="12" ry="12" fill="#181825"/>
+  <rect x="20" y="34" width="760" height="12" fill="#181825"/>
+
+  <!-- Traffic Lights -->
+  <circle cx="46" cy="28" r="6" fill="#ed6a5e"/>
+  <circle cx="68" cy="28" r="6" fill="#f9bd4e"/>
+  <circle cx="90" cy="28" r="6" fill="#61c554"/>
+
+  <!-- Title Bar Text -->
+  <text x="400" y="33" text-anchor="middle" font-family="SF Mono, Menlo, Monaco, monospace" font-size="13" fill="#6c7086">krishna@macbook-pro — zsh — 80×24</text>
+
+  <!-- Terminal Content -->
+  <text x="40" y="76" font-family="SF Mono, Menlo, Monaco, Consolas, monospace" font-size="14">
+    <tspan fill="#a6e3a1">➜</tspan>
+    <tspan fill="#89b4fa"> ~</tspan>
+    <tspan fill="#cdd6f4"> neofetch</tspan>
+  </text>
+
+  <text x="40" y="102" font-family="SF Mono, Menlo, Monaco, Consolas, monospace" font-size="13">
+    <tspan fill="#89b4fa">        ██████</tspan>
+    <tspan fill="#cdd6f4" dx="20">User:</tspan>
+    <tspan fill="#a6e3a1"> Krishna Walia</tspan>
+  </text>
+  <text x="40" y="122" font-family="SF Mono, Menlo, Monaco, Consolas, monospace" font-size="13">
+    <tspan fill="#89b4fa">      ██      ██</tspan>
+    <tspan fill="#cdd6f4" dx="8">Role:</tspan>
+    <tspan fill="#a6e3a1"> Aspiring Software Engineer</tspan>
+  </text>
+  <text x="40" y="142" font-family="SF Mono, Menlo, Monaco, Consolas, monospace" font-size="13">
+    <tspan fill="#89b4fa">    ██          ██</tspan>
+    <tspan fill="#cdd6f4" dx="0">Degree:</tspan>
+    <tspan fill="#a6e3a1"> B.Tech CSE (2024-2028)</tspan>
+  </text>
+  <text x="40" y="162" font-family="SF Mono, Menlo, Monaco, Consolas, monospace" font-size="13">
+    <tspan fill="#89b4fa">    ██    ████  ██</tspan>
+    <tspan fill="#cdd6f4" dx="0">LeetCode:</tspan>
+    <tspan fill="#a6e3a1"> 1722 Rating (Top 12.32% Worldwide)</tspan>
+  </text>
+  <text x="40" y="182" font-family="SF Mono, Menlo, Monaco, Consolas, monospace" font-size="13">
+    <tspan fill="#89b4fa">      ██      ██</tspan>
+    <tspan fill="#cdd6f4" dx="8">Stack:</tspan>
+    <tspan fill="#a6e3a1"> C++, Java, Node.js, Express, React, MongoDB</tspan>
+  </text>
+  <text x="40" y="202" font-family="SF Mono, Menlo, Monaco, Consolas, monospace" font-size="13">
+    <tspan fill="#89b4fa">        ██████</tspan>
+    <tspan fill="#cdd6f4" dx="20">Streak:</tspan>
+    <tspan fill="#a6e3a1"> 180+ Days Active Coding 🔥</tspan>
+  </text>
+
+  <!-- Prompt -->
+  <text x="40" y="240" font-family="SF Mono, Menlo, Monaco, Consolas, monospace" font-size="14">
+    <tspan fill="#a6e3a1">➜</tspan>
+    <tspan fill="#89b4fa"> ~</tspan>
+    <tspan fill="#6c7086"> █</tspan>
+  </text>
+
+  <!-- Color palette dots -->
+  <rect x="370" y="228" width="16" height="16" rx="3" fill="#f38ba8"/>
+  <rect x="392" y="228" width="16" height="16" rx="3" fill="#fab387"/>
+  <rect x="414" y="228" width="16" height="16" rx="3" fill="#f9e2af"/>
+  <rect x="436" y="228" width="16" height="16" rx="3" fill="#a6e3a1"/>
+  <rect x="458" y="228" width="16" height="16" rx="3" fill="#89b4fa"/>
+  <rect x="480" y="228" width="16" height="16" rx="3" fill="#cba6f7"/>
+  <rect x="502" y="228" width="16" height="16" rx="3" fill="#f5c2e7"/>
+  <rect x="524" y="228" width="16" height="16" rx="3" fill="#94e2d5"/>
+</svg>
